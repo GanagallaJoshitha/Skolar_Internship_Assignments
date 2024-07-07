@@ -1,0 +1,32 @@
+IDE Selection:
+
+Choose a Python Integrated Development Environment (IDE) from the following options:
+     Visual Studio Code (VS Code) or Jupyter Notebook.   
+ Install the Selected IDE on your computer. 
+
+Visual Studio Code :
+
+Follow this link to download VS Code - https://code.visualstudio.com/docs/setup/windows
+
+                          ( or )
+
+Follow this Steps : 
+-> Download the VS Code file from the Official Website.
+-> Execute the download file.
+-> Accept the Terms & Conditions.
+-> Click on the Install button.
+-> Wait for the installation to complete.
+-> Click on the Launch button to start it.
+
+Jupyter Notebook:
+
+Follow this link to know how to install it - https://docs.jupyter.org/en/latest/install/notebook-classic.html
+
+                            ( or )
+
+For install Jupyter Notebook prior to this install Python from the official website - https://www.python.org/downloads/
+
+We can install Jupyter Notebook through Command Prompt (cmd) and Install the classic Jupyter Notebook with:
+                   "pip install notebook"
+
+Follow this link - https://jupyter.org/install
