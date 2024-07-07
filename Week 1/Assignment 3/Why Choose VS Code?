@@ -1,13 +1,13 @@
 Why VS Code? Why do we chose VS Code as your Python IDE?
 
-Visual Studio Code (VS Code) is a popular, free, open-source code editor that many developers prefer for its features, performance, and extensibility.
+-Visual Studio Code (VS Code) is a popular, free, open-source code editor that many developers prefer for its features, performance, and extensibility.
 
-Visual Studio Code (VS Code) is a good Python IDE because it's versatile, lightweight, and has extensive extensions.
+-Visual Studio Code (VS Code) is a good Python IDE because it's versatile, lightweight, and has extensive extensions.
 
-Visual Studio Code (VS Code) is a popular open-source code editor with features that can be useful for data science and machine learning.
-It's available for Windows, Linux, macOS, and web browsers.
-VS Code supports debugging, syntax highlighting, and intelligent code completion.
-It also has a large extension ecosystem that can add functionality.
+-Visual Studio Code (VS Code) is a popular open-source code editor with features that can be useful for data science and machine learning.
+-It's available for Windows, Linux, macOS, and web browsers.
+-VS Code supports debugging, syntax highlighting, and intelligent code completion.
+-It also has a large extension ecosystem that can add functionality.
 
 Features and Benefits: 
 
@@ -41,6 +41,24 @@ Data Science Tools: Extensions for popular data science libraries like Pandas an
 Interactive Notebooks: VS Code lets you use Jupyter notebooks. They're great for exploring data, making plots, and testing ideas in a flexible way.
 Seamless Switching: Move between regular Python files and notebooks in the same project. Keeps your work organized.
 
+
+Create a simple Python program in VS Code that prints "Hello, Python!"
+
+->Open Visual Studio Code.
+
+-> Go to File > New Text File 
+            (or) 
+use the keyboard shortcut Ctrl + N to create a new file. 
+
+-> After that, write a simple print expression to display "Hello, Python!"
+
+-> Save the file using Ctrl + S. Select the file directory and type the file name. Make sure to add `.py` at the end of the file name. 
+
+-> To run the Python file, we need to select the Python interpreter. If you have installed ANACONDA environment it automatically comes with Python version 3.9.13.
+
+-> To run the Python file, simply click on the Run button on the top left.
+
+->It will initialize the terminal and run the Python file to display the output.
 
 
 
