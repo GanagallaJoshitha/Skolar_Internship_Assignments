@@ -9,3 +9,15 @@ Why is it important, especially in data science projects?
 
 -Virtual environments are crucial in data science projects because they keep project dependencies isolated and organized.
 -Ensuring consistent and reproducible results without conflicts between different versions of libraries or packages.
+
+Create a virtual environment named "ml_env" using the venv module 
+
+Run the following command to create the virtual environment: 
+>> python -m venv ml_env
+
+Activate the virtual environment:
+>>ml_env\Scripts\activate
+
+To deactivate the virtual environment:
+>>deactivate
+
