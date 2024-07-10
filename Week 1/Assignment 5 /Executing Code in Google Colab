@@ -1,4 +1,29 @@
 Take a screenshot and annotate it to highlight key components and features. 
 Write and execute a Python code cell in the notebook that prints "Hello, Google Colab!"
 
+![colab_UI_Left](https://github.com/GanagallaJoshitha/Skolar_Internship_Assignments/assets/166937036/8660068d-ec7a-4544-8394-910bf615e831)
+
+
+1.Files: Here you will be able to upload datasets and other files from both your computer and Google Drive
+
+2.Code Snippets: Here you will be able to find prewritten snippets of code for different functionalities like adding new libraries or referencing one cell from another.
+
+3.Run Cell: This is the run button. Clicking this will run any code that is inserted in the cell beside it. You can use the shortcut shift+enter to run the current cell and exit to a new one.
+
+4.Table of Contents: Here you will be able to create and traverse different sections inside of your notebook. Sections allow you to organize your code and improve readability.
+
+5.Menu Bar: Like in any other application, this menu bar can be used to manipulate the entire file or add new files. Look over the different tabs and familiarize yourself with the different options. In particular, make sure you know how to upload or open a notebook and download the notebook (all of these options are under “File”).
+
+6.File Name: This is the name of your file. You can click on it to change the name. Do not edit the extension (.ipynb) while editing the file name as this might make your file unopenable.
+
+7.Insert Code Cell: This button will add a code cell below the cell you currently have selected.
+
+8.Insert Text Cell: This button will add a text cell below the cell you currently have selected.
+
+9.Cell: This is the cell. This is where you can write your code or add text depending on the type of cell it is.
+
+10.Output: This is the output of your code, including any errors, will be shown.
+
+11.Clear Output: This button will remove the output.
+
 
