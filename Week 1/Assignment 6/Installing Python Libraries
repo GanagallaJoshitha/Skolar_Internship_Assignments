@@ -1,0 +1,69 @@
+Install a Python library of your choice within your Colab notebook (e.g., NumPy, Pandas, Matplotlib). 
+Numpy Installation :
+
+->To install the NumPy library in Google Colab, you can use the command "pip install numpy". 
+However, the library will be removed when you close the Colab notebook or the runtime ends. To install NumPy permanently, you can try these steps:
+1. Mount your Google Drive
+2. Create a virtual environment and save it to your mounted Google Drive
+3. Use the !pip command to create a virtual environment inside your Google Drive
+
+Pandas Installation: 
+To install Pandas in Google Colab, you can use the command "pip install pandas" in a notebook cell:
+1.In a notebook cell, type pip install pandas
+2.Press Control Enter
+3.Pandas will be installed 
+
+Matplotlib Installation:
+To install Matplotlib in Google Colab, you can use the PIP command:
+1.Ensure that Python is installed on your system.
+2.Open a terminal or command prompt.
+3.Type "pip install Matplotlib" in Python.
+4.Verify the installation.
+
+Write code to demonstrate the usage of the installed library. 
+Perform a basic operation or visualization.
+
+import numpy as np
+import matplotlib.pyplot as plt
+
+# Create a 1D array
+array_1d = np.array([1, 2, 3, 4, 5])
+
+# Create a 2D array (matrix)
+array_2d = np.array([[1, 2, 3], [4, 5, 6]])
+
+# Perform basic operations
+print("1D Array:")
+print(array_1d)
+print("Shape:", array_1d.shape)
+print("Sum:", np.sum(array_1d))
+print()
+
+print("2D Array:")
+print(array_2d)
+print("Shape:", array_2d.shape)
+print("Transpose:")
+print(array_2d.T)
+print("Element-wise multiplication with scalar:")
+print(array_2d * 2)
+print()
+
+# Visualization
+plt.figure(figsize=(8, 4))
+
+# Plotting 1D array
+plt.subplot(1, 2, 1)
+plt.plot(array_1d, marker='o')
+plt.title('1D Array')
+
+# Plotting 2D array
+plt.subplot(1, 2, 2)
+plt.imshow(array_2d, cmap='viridis', interpolation='nearest')
+plt.title('2D Array')
+
+plt.tight_layout()
+plt.show()
+
+
+
+
