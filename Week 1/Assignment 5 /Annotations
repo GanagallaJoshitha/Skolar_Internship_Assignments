@@ -1,7 +1,3 @@
-Take a screenshot and annotate it to highlight key components and features. 
-Write and execute a Python code cell in the notebook that prints "Hello, Google Colab!"
-
-![Image description](https://github.com/GanagallaJoshitha/Skolar_Internship_Assignments/assets/166937036/8660068d-ec7a-4544-8394-910bf615e831)
 
 1.Files: Here you will be able to upload datasets and other files from both your computer and Google Drive
 
@@ -24,5 +20,17 @@ Write and execute a Python code cell in the notebook that prints "Hello, Google 
 10.Output: This is the output of your code, including any errors, will be shown.
 
 11.Clear Output: This button will remove the output.
+
+12.Ram and Disk: All of the code you write will run on Google’s computer, and you will only see the output. This means that even if you have a slow computer, running big chunks of code will not be an issue. Google only allots a certain amount of Ram and Disk space for each user, so be mindful of that as you work on larger projects.
+
+13.Link to Cell: This button will create a URL that will link to the cell you have selected.
+
+14.Comment: This button will allow you to create a comment on the selected cell. Note that this will be a comment on (about) the cell and not a comment in the cell.
+
+15.Settings: This button will allow you to change the Theme of the notebook, font type, and size, indentation width, etc.
+
+16.Delete Cell: This button will delete the selected cell.
+
+17.More Options: Contains options to cut and copy a cell as well as the option to add form and hide code.
 
 
