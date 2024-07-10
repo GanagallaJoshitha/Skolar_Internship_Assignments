@@ -1,0 +1,18 @@
+Activate the virtual environment and install a Python library of your choice (e.g., NumPy) within this environment. 
+
+Open the terminal and activate the virtual environment.
+
+Install NumPy within the activated virtual environment by running:
+  >> pip install numpy
+After installing Numpy you can check the installed packages using:
+>> pip list
+
+
+Write a Python script that imports the library and performs a basic operation (e.g., creating an array or matrix).
+
+import numpy as np
+#Creating an array
+array = np.array([1, 2, 3, 4, 5])
+print("Created NumPy array:", array)
+
+
