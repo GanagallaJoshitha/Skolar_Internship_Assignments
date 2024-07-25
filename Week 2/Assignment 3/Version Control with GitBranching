@@ -1,0 +1,21 @@
+-> Open Terminal:
+Navigate to your local repository directory.
+cd path/to/your/my-first-repo
+
+-> Create a New Branch:
+Use the git checkout command to create and switch to a new branch called feature-branch.
+git checkout -b feature-branch
+---This command creates a new branch and switches to it.
+
+-> Make Changes:
+Edit a file in your repository. For example, add a new line to the README.md file.
+echo "This is a new line added in feature-branch" >> README.md
+
+->Commit the Changes:
+Add the changed file to the staging area.
+----git add README.md
+
+-> Commit the changes with a message
+git commit -m "Added a new line to README in feature-branch"
+
+
