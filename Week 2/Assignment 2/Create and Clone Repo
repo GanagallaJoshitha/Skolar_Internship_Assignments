@@ -1,0 +1,25 @@
+Repository Creation: Create a new public GitHub repository named "my-first-repo." Provide a link to your repository.
+
+->Create a New Repository:
+->Log in to your GitHub account.
+->Click the "+" icon in the top right corner and select "New repository."
+->Fill in the repository details:
+   Repository name: my-first-repo
+-> Description: (Optional) Add a short description of your repository.
+-> Public: Select "Public" to make your repository visible to everyone.
+-> Initialize this repository with a README: Check this box to add a README file.
+-> Click "Create repository."
+Link to my repository: https://github.com/GanagallaJoshitha/my-first-repo
+
+Repository Cloning: Clone the "my-first-repo" repository to your local machine. 
+
+Clone the Repository:
+
+->Open your terminal or command prompt.
+->Navigate to the directory where you want to clone the repository using the cd command.
+For example: cd path/to/your/directory
+->Use the git clone command to clone the repository to your local machine. Replace your-username with your actual GitHub username:
+git clone https://github.com/GanagallaJoshitha/my-first-repo
+
+
+
