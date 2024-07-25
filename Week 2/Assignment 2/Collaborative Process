@@ -1,0 +1,11 @@
+Invite a classmate or friend to collaborate on your repository. 
+Ask them to fork your repository, make a change, and create a pull request. 
+Accept their pull request, and explain the collaborative process
+
+
+->Forking: Your collaborator forks (copies) your repository to their own GitHub account. This allows them to make changes without affecting your original repository.
+->Cloning: Your collaborator clones the forked repository to their local machine to work on it.
+->Making Changes: Your collaborator makes changes locally and commits them.
+->Pushing Changes: They push the committed changes to their forked repository on GitHub.
+->Creating a Pull Request: Your collaborator creates a pull request to propose their changes to your original repository.
+->Reviewing and Merging: You review the changes in the pull request. If you approve, you merge the changes into your repository.
