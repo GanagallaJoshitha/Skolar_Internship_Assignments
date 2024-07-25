@@ -19,3 +19,14 @@ Add the changed file to the staging area.
 git commit -m "Added a new line to README in feature-branch"
 
 
+Merging: Merge the "feature-branch" into the main branch. 
+Explain the merge process and resolve any conflicts if they occur
+
+
+---Explanation of the Merge Process
+->Switching Branches: You switch to the main branch to ensure you are merging into the correct branch.
+->Merging: The git merge feature-branch command merges the changes from feature-branch into main. If there are no conflicts, the merge will complete automatically.
+->Conflict Resolution: If there are conflicts (i.e., changes that can't be automatically merged), Git will mark the conflicts in the affected files. 
+   You must manually edit the files to resolve the conflicts and then add and commit the resolved files.
+->Pushing Changes: After merging, you push the changes to the remote repository to update the main branch on GitHub.
+
