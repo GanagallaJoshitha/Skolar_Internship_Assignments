@@ -1,0 +1,37 @@
+1. Lists in Python
+
+Definition: A list is a collection of items in a particular order. Lists are mutable, meaning they can be changed after creation.
+Creation: Lists are created using square brackets [].
+Accessing Elements: Use indexing, starting at 0, to access list elements. Negative indexing is also allowed.
+Common Operations:
+Adding Elements: append(), insert(), extend()
+Removing Elements: remove(), pop(), clear()
+Sorting: sort(), sorted()
+Other Methods: len(), index(), count(), reverse()
+
+
+2. Strings in Python
+Definition: Strings are sequences of characters enclosed in quotes (single, double, or triple quotes).
+Immutability: Strings cannot be changed after they are created.
+Common Operations:
+Concatenation: Using +
+Repetition: Using *
+Slicing: Accessing a range of characters using string[start:stop:step]
+Methods: upper(), lower(), strip(), split(), replace(), find()
+
+
+3. Functions in Python
+Definition: Functions are blocks of reusable code that perform a specific task.
+Creation: Defined using the def keyword followed by the function name and parentheses ().
+Arguments and Parameters: Functions can take arguments which are specified in the parentheses.
+Return Statement: The return statement is used to send a function’s result back to the caller.
+Scope: Variables inside functions have local scope unless declared global.
+
+4. Python Modules
+Definition: A module is a file containing Python code (functions, classes, variables) that can be imported and used in other Python scripts.
+Importing Modules: Use the import statement.
+Commonly Used Modules: math, sys, os, random, datetime
+Creating Modules: Any Python file can be a module.
+Using Modules:
+Importing Specific Items: from module import function
+Renaming Modules: import module as alias
