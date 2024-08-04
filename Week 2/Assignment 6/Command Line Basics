@@ -1,0 +1,57 @@
+Command Line Navigation: 
+Demonstrate how to navigate the file system using basic command-line commands (e.g., cd, ls, pwd) in your preferred command-line interface (Windows Command Prompt or Linux Terminal).
+
+Windows Command Prompt
+
+-> Navigation
+
+Print Current Directory:
+To display the current directory you are in:
+>>cd
+List Directory Contents:
+To list all files and subdirectories in the current directory:
+>>dir
+Adding /A will show hidden files:
+>>dir /A
+Change Directory:
+To move to a different directory:
+>>cd <directory_path>
+EX: >>cd C:\Users\YourUsername\Documents
+Move to Parent Directory:
+To go up one directory level:
+>>cd ..
+Print Working Directory:
+To display the full path of the current directory:
+>>echo %cd%
+
+File Manipulation: Create, copy, move, and delete files and directories usingcommand-line commands. 
+Create a File:
+To create a new empty file:
+>>echo. > filename.txt
+EX: >>echo. > example.txt
+Copy a File:
+To copy a file to a new location:
+>>copy source.txt destination.txt
+Ex: >>copy example.txt copy_of_example.txt
+Move a File:
+To move (or rename) a file:
+>>move source.txt destination.txt
+Ex: >>move example.txt new_example.txt
+Delete a File:
+To delete a file:
+>>del filename.txt
+Create a Directory:
+To create a new directory:
+>>mkdir newfolder
+Copy a Directory:
+To copy a directory and its contents:
+xcopy sourcefolder destinationfolder /E /I
+Move a Directory:
+To move a directory to a new location:
+>>move sourcefolder destinationfolder
+Delete a Directory:
+To delete a directory and all its contents:
+>> rmdir /S /Q foldername
+
+You can also use Linux Terminal - https://ubuntu.com/tutorials/command-line-for-beginners#1-overview
+
