@@ -1,0 +1,65 @@
+NumPy - https://numpy.org/doc/stable/user/absolute_beginners.html
+Pandas - https://pandas.pydata.org/docs/getting_started/index.html
+
+Numpy 
+Official Documentation Summary:
+
+NumPy (Numerical Python) is a fundamental package for scientific computing in Python. It provides support for arrays, matrices, and many mathematical functions.
+
+Key Concepts and Features:
+Arrays:
+
+Creation: Use numpy.array() to create arrays from lists or tuples.
+Array Properties: Arrays are homogeneous, meaning all elements must be of the same type.
+Shape and Size: Arrays have attributes like shape (dimensions) and size (total number of elements).
+
+Array Operations:
+
+Indexing and Slicing: Access and modify elements using indices and slices.
+Broadcasting: Allows operations on arrays of different shapes by automatically expanding smaller arrays.
+
+Mathematical Functions:
+
+Universal Functions: Perform element-wise operations (e.g., np.add, np.sqrt).
+Aggregations: Functions like np.mean, np.sum, and np.max perform statistical operations.
+Linear Algebra:
+
+Matrix Operations: Includes functions for matrix multiplication (np.dot), determinants (np.linalg.det), and eigenvalues (np.linalg.eig).
+
+Random Sampling:
+Generating Random Numbers: Use np.random for generating random numbers and distributions.
+
+Pandas
+
+Official Documentation Summary:
+
+Pandas is a powerful library for data manipulation and analysis. It provides data structures like DataFrames and Series for handling and analyzing data.
+
+Key Concepts and Features:
+
+Data Structures:
+
+Series: One-dimensional labeled array capable of holding any data type.
+DataFrame: Two-dimensional labeled data structure with columns of potentially different types.
+
+Data Manipulation:
+
+DataFrame Creation: Create from lists, dictionaries, or external files (e.g., CSV).
+Indexing and Selection: Use .loc[] and .iloc[] for label-based and integer-based indexing, respectively.
+Data Cleaning: Handle missing data using methods like dropna() and fillna().
+
+Data Analysis:
+
+Aggregation: Perform operations like mean(), sum(), and groupby() to aggregate data.
+Merging and Joining: Combine DataFrames using merge(), join(), and concat().
+
+Data Visualization:
+
+Plotting: Pandas integrates with Matplotlib for visualizations. Use .plot() for basic plotting.
+
+File I/O:
+
+Reading/Writing Data: Use read_csv(), to_csv(), read_excel(), and to_excel() for file operations.
+
+
+
