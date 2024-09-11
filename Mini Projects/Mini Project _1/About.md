@@ -1,4 +1,4 @@
-Mini-Project 1:Data Preprocessing and Feature Engineering (VIP)
+**Mini-Project 1:Data Preprocessing and Feature Engineering (VIP)
 
 Objective: The objective of this assignment is to apply data preprocessing and feature engineering techniques on a real-world dataset to prepare it for machine learning modeling.
 
@@ -28,3 +28,4 @@ Analysis:Provide visualizations and summary statistics to illustrate the impact 
 Conclusion:Summarize the key takeaways from this assignment, including the importance of data preprocessing and feature engineering in preparing data for machine learning models.
 
 Submission Guidelines:Submit a comprehensive report that includes explanations, code snippets, visualizations, and any additional insights gained during the process.Include the link or attachment to the preprocessed dataset CSV file.Ensure that your assignment is well-organized, clear, and easy to follow
+**
